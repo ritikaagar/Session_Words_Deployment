@@ -1,0 +1,29 @@
+span.redandbig{
+	font-size: 24pt;
+	color: red;
+}
+
+span.redandsmall{
+	font-size: 14pt;
+	color: red;
+}
+
+span.blueandbig{
+	font-size: 24pt;
+	color: blue;
+}
+
+span.blueandsmall{
+	font-size: 14pt;
+	color: blue;
+}
+span.greenandbig{
+	font-size: 24pt;
+	color: green;
+}
+
+span.greenandsmall{
+	font-size: 14pt;
+	color: green;
+}
+
